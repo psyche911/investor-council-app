@@ -4,6 +4,9 @@
 
 The **Investor Council** is an AI-powered financial analysis tool that fetches real-time market data and evaluates it through the distinct mental models of four legendary investors: **Warren Buffett**, **Peter Lynch**, **Charlie Munger**, and **Ray Dalio**.
 
+> [!IMPORTANT]
+> **Active Development**: This project is evolving rapidly. Check out our [Roadmap](./ROADMAP.md) to see what's coming next (Technical Analysis, LLM summaries, and more).
+
 ![Dashboard Preview](https://placehold.co/600x400/18181b/fbbf24?text=Investor+Council+App)
 
 ## 🚀 Features
